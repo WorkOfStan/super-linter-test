@@ -6,7 +6,7 @@ permissions:
   contents: read
 
 jobs:
-  prettier-fix:
+  super-linter:
     runs-on: ubuntu-latest
     # Limit the running time
     timeout-minutes: 10

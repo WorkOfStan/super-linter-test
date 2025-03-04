@@ -1,0 +1,29 @@
+{
+  "name": "workofstan/super-linter-test",
+  "description": "Super-linter test",
+  "type": "project",
+  "require": {
+    "php": "8.2"
+  },
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Stanislav Rejthar",
+      "email": "rejthar@stanislavrejthar.com"
+    }
+  ],
+  "support": {
+    "email": "rejthar@stanislavrejthar.com",
+    "issues": "https://github.com/WorkOfStan/super-linter-test/issues",
+    "source": "https://github.com/WorkOfStan/super-linter-test"
+  },
+  "minimum-stability": "stable",
+  "prefer-stable": true,
+  "autoload": {
+    "psr-4": {
+      "WorkOfStan\\SuperLinterTest\\": [
+        "classes/"
+      ]
+    }
+  }
+}

@@ -3,7 +3,7 @@
   "description": "Super-linter test",
   "type": "project",
   "require": {
-    "php": "^7.2 || ^8.0"
+    "php": "8.4"
   },
   "license": "MIT",
   "authors": [
